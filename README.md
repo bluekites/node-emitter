@@ -1,0 +1,1 @@
+###Creating a simple node emitter using constructor function, prototype, and first class functions.
